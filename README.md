@@ -1,4 +1,4 @@
-# Machine Learning Application with Streamlit
+# AutoML Application with Streamlit
 A comprehensive machine learning application built using Streamlit, Scikit-Learn, Plotly, and MLflow. This application enables users to upload a dataset, train a machine learning model, make predictions, visualize data, and track experiments.
 
 ## Features
