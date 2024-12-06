@@ -23,6 +23,7 @@ A comprehensive machine learning application built using Streamlit, Scikit-Learn
 #### GitHub: https://github.com/RSukant
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/f414c871-e84d-4783-a2b6-51fdf8193284)
 
 
 ## Acknowledgments
