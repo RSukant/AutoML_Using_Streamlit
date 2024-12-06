@@ -19,8 +19,8 @@ A comprehensive machine learning application built using Streamlit, Scikit-Learn
 - MLflow: Platform for managing the ML lifecycle.
 
 #### Author: Sukant R
-#### Contact: [Your Email]
-#### GitHub: Your GitHub Profile
+#### Contact: sukantravichandran17@gmail.com
+#### GitHub: https://github.com/RSukant
 
 ## Screenshots
 
