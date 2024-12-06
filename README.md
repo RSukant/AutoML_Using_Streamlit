@@ -18,7 +18,7 @@ A comprehensive machine learning application built using Streamlit, Scikit-Learn
 - Plotly: Library for interactive data visualizations.
 - MLflow: Platform for managing the ML lifecycle.
 
-#### Author: [Your Name]
+#### Author: Sukant R
 #### Contact: [Your Email]
 #### GitHub: Your GitHub Profile
 
