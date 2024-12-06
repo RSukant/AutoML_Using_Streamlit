@@ -24,7 +24,8 @@ A comprehensive machine learning application built using Streamlit, Scikit-Learn
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/f414c871-e84d-4783-a2b6-51fdf8193284)
-
+![image](https://github.com/user-attachments/assets/60838cbd-eed7-477c-8264-6b8b37229a49)
+![image](https://github.com/user-attachments/assets/f9929e40-a742-46c4-929d-68982554353a)
 
 ## Acknowledgments
 - Special thanks to the Streamlit, Scikit-Learn, Pandas, Plotly, and MLflow communities for their excellent resources and tutorials.
